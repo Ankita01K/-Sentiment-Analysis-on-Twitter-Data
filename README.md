@@ -47,7 +47,7 @@ To prepare the text data for machine learning, we used the TF-IDF (Term Frequenc
 We've tested a few models:
 
 
-1**-Multinomial Naive Bayes**
+1-**Multinomial Naive Bayes**
 
 2-**Gaussian Naive Bayes**
 
