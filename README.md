@@ -7,11 +7,17 @@ This project is all about understanding Twitter data sentiments. We're building 
 **Table of Contents**
 
 1-Data Collection
+
 2-Text Preprocessing
+
 3-Feature Extraction
+
 4-Model Selection
+
 5-Model Training
+
 5-Model Evaluation
+
 
 1.**Data Collection**
 
@@ -23,9 +29,13 @@ Twitter data can be messy. We've cleaned it up by:
 
 
 1-Removing Stopwords
+
 2-Tokenization
+
 3-Lemmatization
+
 4-Stemming
+
 
 
 3. **Feature Extraction**
@@ -38,8 +48,11 @@ We've tested a few models:
 
 
 1-Multinomial Naive Bayes
+
 2-Gaussian Naive Bayes
+
 3-Random Forest classifier
+
 
 
 5. **Model Training**
@@ -53,8 +66,12 @@ The final step involves assessing the performance of the sentiment analysis mode
 
 
 1-Accuracy: Measures the proportion of correctly classified posts.
+
 2-Precision: Evaluates the accuracy of positive or negative predictions.
+
 3-Recall: Assesses the model's ability to identify all positive or negative posts.
+
 4-F1-Score: Balances precision and recall.
+
 
 
